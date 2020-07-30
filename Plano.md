@@ -1,4 +1,4 @@
-# Plano de Estudos - Valdi
+# Plano de Estudos 
 
 ## Objetivo: "Utilização plena de microcontroladores para instrumentação de ensino em física"
 
